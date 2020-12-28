@@ -1,0 +1,10 @@
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\DAL\bin\Debug\DAL.dll
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\DAL\bin\Debug\DAL.pdb
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\DAL\obj\Debug\DAL.dll
+C:\Users\hapham\documents\visual studio 2012\Projects\QuanLyCuaHang\DAL\obj\Debug\DAL.pdb
+C:\Users\hapham\Desktop\QuanLyCuaHang\DAL\bin\Debug\DAL.dll
+C:\Users\hapham\Desktop\QuanLyCuaHang\DAL\bin\Debug\DAL.pdb
+C:\Users\hapham\Desktop\QuanLyCuaHang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hapham\Desktop\QuanLyCuaHang\DAL\obj\Debug\DAL.dll
+C:\Users\hapham\Desktop\QuanLyCuaHang\DAL\obj\Debug\DAL.pdb
